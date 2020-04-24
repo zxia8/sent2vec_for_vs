@@ -1,0 +1,58 @@
+﻿  fasttext.cpp
+D:\sent2vec\sent2vec\hnswlib\space_ip.h(19,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(31,25): warning C4244: “参数”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(129,17): warning C4244: “初始化”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(146,70): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(146,70): warning C4267:         with
+D:\sent2vec\sent2vec\fasttext.cpp(146,70): warning C4267:         [
+D:\sent2vec\sent2vec\fasttext.cpp(146,70): warning C4267:             _Ty=int
+D:\sent2vec\sent2vec\fasttext.cpp(146,70): warning C4267:         ]
+D:\sent2vec\sent2vec\fasttext.cpp(213,41): warning C4267: “+=”: 从“size_t”转换到“int32_t”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(293,29): warning C4244: “参数”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(325,21): warning C4244: “初始化”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(371,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\sent2vec\sent2vec\fasttext.cpp(376,34): warning C4018: “<”: 有符号/无符号不匹配
+D:\sent2vec\sent2vec\fasttext.cpp(384,29): warning C4244: “参数”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(386,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\sent2vec\sent2vec\fasttext.cpp(389,34): warning C4018: “<”: 有符号/无符号不匹配
+D:\sent2vec\sent2vec\fasttext.cpp(416,33): warning C4244: “参数”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(457,25): warning C4244: “参数”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(459,21): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(493,29): warning C4244: “参数”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(495,25): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+D:\sent2vec\sent2vec\fasttext.cpp(566,29): warning C4244: “参数”: 从“double”转换到“fasttext::real”，可能丢失数据
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(591,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(569): message : 在编译 类 模板 成员函数“void hnswlib::HierarchicalNSW<float>::saveIndex(const std::string &)”时
+D:\sent2vec\sent2vec\fasttext.cpp(465): message : 查看对正在编译的 类 模板 实例化“hnswlib::HierarchicalNSW<float>”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(669): message : 查看对正在编译的 类 模板 实例化“std::chrono::duration<double,std::ratio<1,1>>”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(177): message : 查看对正在编译的 类 模板 实例化“std::chrono::duration<__int64,std::nano>”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(647): message : 查看对正在编译的 类 模板 实例化“std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>”的引用
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(41,1): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(27): message : 在编译 类 模板 成员函数“hnswlib::HierarchicalNSW<float>::HierarchicalNSW(hnswlib::SpaceInterface<float> *,size_t,size_t,size_t,size_t)”时
+D:\sent2vec\sent2vec\fasttext.cpp(515): message : 查看对正在编译的函数 模板 实例化“hnswlib::HierarchicalNSW<float>::HierarchicalNSW(hnswlib::SpaceInterface<float> *,size_t,size_t,size_t,size_t)”的引用
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(55,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(806,1): warning C4267: “=”: 从“size_t”转换到“hnswlib::tableint”，可能丢失数据
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(798): message : 在编译 类 模板 成员函数“hnswlib::tableint hnswlib::HierarchicalNSW<float>::addPoint(const void *,hnswlib::labeltype,int)”时
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(795): message : 查看对正在编译的函数 模板 实例化“hnswlib::tableint hnswlib::HierarchicalNSW<float>::addPoint(const void *,hnswlib::labeltype,int)”的引用
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(402,1): warning C4267: “参数”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(378): message : 在编译 类 模板 成员函数“void hnswlib::HierarchicalNSW<float>::mutuallyConnectNewElement(const void *,hnswlib::tableint,std::priority_queue<std::pair<dist_t,hnswlib::tableint>,std::vector<std::pair<dist_t,hnswlib::tableint>,std::allocator<_Ty>>,hnswlib::HierarchicalNSW<dist_t>::CompareByFirst>,int)”时
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(378): message :         with
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(378): message :         [
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(378): message :             dist_t=float,
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(378): message :             _Ty=std::pair<float,hnswlib::tableint>
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(378): message :         ]
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(892): message : 查看对正在编译的函数 模板 实例化“void hnswlib::HierarchicalNSW<float>::mutuallyConnectNewElement(const void *,hnswlib::tableint,std::priority_queue<std::pair<dist_t,hnswlib::tableint>,std::vector<std::pair<dist_t,hnswlib::tableint>,std::allocator<_Ty>>,hnswlib::HierarchicalNSW<dist_t>::CompareByFirst>,int)”的引用
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(892): message :         with
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(892): message :         [
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(892): message :             dist_t=float,
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(892): message :             _Ty=std::pair<float,hnswlib::tableint>
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(892): message :         ]
+  main.cpp
+D:\sent2vec\sent2vec\hnswlib\hnswalg.h(439,1): warning C4267: “参数”: 从“size_t”转换到“unsigned short”，可能丢失数据
+D:\sent2vec\sent2vec\hnswlib\space_ip.h(19,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  24 of 2073 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sent2vec.vcxproj -> D:\sent2vec\x64\Release\sent2vec.exe
